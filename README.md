@@ -1,4 +1,3 @@
 # Fashion-Design-Indursty
 The fashion industry is probably one of the fastest moving in the business world. What might be ‘in’ today may be totally ‘out’ tomorrow. On the runway, models present the latest fashion trends, some more ‘conventional’, others a little bit. While the clothes take center stage, there is a lot more going on behind the scenes of a fashion show. A lot of things need to be planned before a clothing item reaches the runway or a store’s shelf. Fashion companies face many challenges and constraints that require good planning and efficient execution of those plans – this is where project management comes in.
-# https://l.facebook.com/l.php?u=https%3A%2F%2Fmoynulislamsghs.github.io%2Fse-project%2Findex.html%3Ffbclid%3DIwAR1uoj5gQBIEVi9oRDRnQmLetTVP4UotD81bIBBRNUg4vcPxwbmxtBmAwj0&h=AT0Sd7X6sR3nrrtFWybo5Epj_7vFi50K4S8YmYxm6-dMtLxFIF5swTTea83a7A-uVELzhdLYN42ySBhack9YzAcNWbI_S74C9r93ATzwLx2J3QX4YQ3lxYCP-GUGMjcGo37x
-
+# https://moynulislamsghs.github.io/se-project/index.html?fbclid=IwAR1uoj5gQBIEVi9oRDRnQmLetTVP4UotD81bIBBRNUg4vcPxwbmxtBmAwj0
